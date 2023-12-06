@@ -1,0 +1,4 @@
+#import relevant packages 
+import numpy as np 
+#create an array 
+variable = np.array([1,2,3,4])
