@@ -1,9 +1,6 @@
+![redpopcorn](https://github.com/meiliangpan/Test-/assets/116858559/907c2fea-323b-45ed-a67a-53a4d31244e1)
 
-<p align="center"> <img scr="redpopcorn.jpg"> </p>
 
-<p align="center">
-  <img src="https://unsplash.com/photos/person-holding-remote-pointing-at-tv-11SgH7U6TmI">
-</p>
 
 # Test-
 ## this is a 1st test on github 
